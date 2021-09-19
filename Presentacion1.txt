@@ -1,0 +1,3 @@
+Soy camilo ibarra estudiante de ingenieria de la universudad nacional, 
+como medio para aprende a utiliza git esta esta presentacion y proximamente 
+desarrollaremos una appweb!
